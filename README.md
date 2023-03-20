@@ -32,7 +32,7 @@
 
 - [Getting Started](../hw11/Develop/assets/Getting%20started.mp4) 
 
-- [Get All Example Link](https://clipchamp.com/watch/arKNwbwiPf8)
+- [Getting Started Link](https://clipchamp.com/watch/arKNwbwiPf8)
 
 -------------------------
 
