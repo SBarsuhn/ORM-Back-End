@@ -28,19 +28,31 @@
 
 - You can use the application to view products in your database. You can also view by category, tag, or id. you can also view by individual category, tag, or product. It would be helpful to make folders in insomnia to save each command so the application will be easier to use in the future. You can see how to structure them in the example video
 
+-------------------------
+
+- [Getting Started](../hw11/Develop/assets/Getting%20started.mp4) 
+
+- [Get All Example Link](https://clipchamp.com/watch/arKNwbwiPf8)
+
+-------------------------
+
 - [Get All Example](../hw11/Develop/assets/GET_ALL.mp4) 
 
 - [Get All Example Link](https://clipchamp.com/watch/Da6EdxqA6oU)
 
+-------------------------
 
 - [Get By ID Example](../hw11/Develop/assets/GET_BY_ID.mp4) 
 
 - [Get By ID Example Link](https://clipchamp.com/watch/qgNpbQ95owg)
 
+-------------------------
 
 - [Post Put & Delete Example](../hw11/Develop/assets/POST_PUT_DEL.mp4) 
 
 - [Post Put & Delete Example](https://clipchamp.com/watch/v4eZnmy1XeQ)
+
+-------------------------
 
 
 ## LICENSE
